@@ -1,2 +1,3 @@
 name=input("What is your name?     ")
-print(" Your name has", len(name), "letters")
+print(name)
+print("Your name has", len(name), "letters")
